@@ -1,5 +1,4 @@
 # Tutorial de Git - Comandos Iniciais
-
 ## Instalando git
 
 ```Bash
